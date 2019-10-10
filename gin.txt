@@ -1,0 +1,4 @@
+
+Gin框架安装之前要做的事情：
+1、设置export GO111MODULE=on和export GOPROXY=https://goproxy.io，不然下载安装Gin包不成功
+2、https://www.jianshu.com/p/98965b3ff638/
